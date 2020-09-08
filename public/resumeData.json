@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
+    "name": "Rojan Dhimal",
     "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
     "image": "IG_Sonny.jpeg",
     "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "rojandhimal1@gmail.com",
+    "phone": "+9779813216037",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Koteshor",
+      "city": "Kathmandu",
+      "state": "NP",
+      "zip": "44600"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/rojan.tegre.5",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/rojandhimal/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/rojan_tegre/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/rojandhimal",
         "className": "fa fa-github"
       }
     ]

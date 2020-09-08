@@ -26,5 +26,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "![ReactJS Resume Website Template](resume-screenshot.png?raw=true \"ReactJS Resume Website Template\")",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rojandhimal/react-portfolio.git"
+  },
+  "author": "Rojan Dhimal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rojandhimal/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/rojandhimal/react-portfolio#readme"
 }
